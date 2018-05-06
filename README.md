@@ -1,0 +1,1 @@
+# Open-pdf-batch-photoshop-plugin
